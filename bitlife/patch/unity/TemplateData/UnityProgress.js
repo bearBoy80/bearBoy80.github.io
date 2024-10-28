@@ -119,8 +119,7 @@ window.Game = (function () {
     var maxWidth = window.innerWidth;
     var windowSizeRatio = maxWidth / maxHeight;
     var newStyle = {
-      // width: gameContainer.offsetWidth,
-      width: window.innerWidth,
+      width: gameContainer.offsetWidth,
       height: gameContainer.offsetHeight,
     };
 
@@ -133,7 +132,8 @@ window.Game = (function () {
         newStyle = { width: maxHeight * gameSizeRatio, height: maxHeight };
       }
     }
-
+    newStyle.width = 800;
+    newStyle.height = 600;
     this.updateStyle(gameContainer, newStyle);
 
     // canvas does not exists on page load
