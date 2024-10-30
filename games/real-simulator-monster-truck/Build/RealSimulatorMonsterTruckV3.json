@@ -1,0 +1,17 @@
+{
+"companyName": "OzgurAydın",
+"productName": "Real Simulator Monster Truck",
+"productVersion": "1.0",
+"dataUrl": "RealSimulatorMonsterTruckV3.data.unityweb",
+"wasmCodeUrl": "RealSimulatorMonsterTruckV3.wasm.code.unityweb",
+"wasmFrameworkUrl": "RealSimulatorMonsterTruckV3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "RealSimulatorMonsterTruckV3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
