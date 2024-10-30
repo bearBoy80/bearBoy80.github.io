@@ -104,6 +104,7 @@ window.Game = (function () {
 
   Game.prototype.resize = function () {
     var ratioTolerant = this.getQueryVariable("ratio_tolerant");
+    // 如果是全屏或不需要比例适应，直接返回
     if (ratioTolerant == false || this.fullscreen()) {
       return;
     }
@@ -114,29 +115,49 @@ window.Game = (function () {
       document.getElementById("unityContainer");
     var canvas = document.getElementById("#canvas");
 
-    var gameSizeRatio = gameContainer.offsetWidth / gameContainer.offsetHeight;
-    var maxHeight = this.maxHeight();
+    // 获取窗口和游戏容器的尺寸
     var maxWidth = window.innerWidth;
-    var windowSizeRatio = maxWidth / maxHeight;
+    var maxHeight = this.maxHeight();
+    var containerWidth = gameContainer.offsetWidth;
+    var containerHeight = gameContainer.offsetHeight;
+
+    // 计算比例
+    var containerRatio = containerWidth / containerHeight;
+    var windowRatio = maxWidth / maxHeight;
+
     var newStyle = {
-      width: gameContainer.offsetWidth,
-      height: gameContainer.offsetHeight,
+      width: containerWidth,
+      height: containerHeight,
     };
 
-    if (ratioTolerant == "true") {
-      newStyle = { width: maxWidth, height: maxHeight };
-    } else if (ratioTolerant == "false") {
-      if (gameSizeRatio > windowSizeRatio) {
-        newStyle = { width: maxWidth, height: maxWidth / gameSizeRatio };
+    // 根据不同的比例适应模式计算新尺寸
+    if (ratioTolerant === "true") {
+      // 完全填充模式
+      newStyle = {
+        width: maxWidth,
+        height: maxHeight,
+      };
+    } else {
+      // 保持比例模式
+      if (containerRatio > windowRatio) {
+        // 以宽度为基准
+        newStyle.width = maxWidth;
+        newStyle.height = maxWidth / containerRatio;
       } else {
-        newStyle = { width: maxHeight * gameSizeRatio, height: maxHeight };
+        // 以高度为基准
+        newStyle.height = maxHeight;
+        newStyle.width = maxHeight * containerRatio;
       }
     }
-    newStyle.width = 800;
-    newStyle.height = 600;
-    this.updateStyle(gameContainer, newStyle);
 
-    // canvas does not exists on page load
+    // 居中显示
+    gameContainer.style.position = "absolute";
+    gameContainer.style.left = "50%";
+    gameContainer.style.top = "50%";
+    gameContainer.style.transform = "translate(-50%, -50%)";
+
+    // 更新尺寸
+    this.updateStyle(gameContainer, newStyle);
     if (canvas) {
       this.updateStyle(canvas, newStyle);
     }
