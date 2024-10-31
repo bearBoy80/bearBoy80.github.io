@@ -1,0 +1,16 @@
+{
+"companyName": "VitalityGames",
+"productName": "Parking Fury 3D: Beach City",
+"productVersion": "1.0.1",
+"dataUrl": "ParkingFury3DBeachCity.data.unityweb?v=1",
+"wasmCodeUrl": "ParkingFury3DBeachCity.wasm.code.unityweb?v=1",
+"wasmFrameworkUrl": "ParkingFury3DBeachCity.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#141414",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
