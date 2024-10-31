@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Created using Glyph Designer - http://71squared.com/glyphdesigner-->
+<font>
+    <info face="Brady Bunch Remastered" size="32" bold="0" italic="0" charset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="2,2"/>
+    <common lineHeight="38" base="30" scaleW="103" scaleH="119" pages="1" packed="0"/>
+    <pages>
+        <page id="0" file="ui_combobonus.png"/>
+    </pages>
+    <chars count="9">
+        <char id="32" x="69" y="80" width="0" height="0" xoffset="0" yoffset="36" xadvance="9" page="0" chnl="0" letter="space"/>
+        <char id="33" x="35" y="2" width="24" height="38" xoffset="-6" yoffset="-2" xadvance="6" page="0" chnl="0" letter="!"/>
+        <char id="66" x="2" y="2" width="31" height="38" xoffset="-6" yoffset="-1" xadvance="13" page="0" chnl="0" letter="B NUS!"/>
+        <char id="67" x="36" y="42" width="31" height="36" xoffset="-6" yoffset="-0" xadvance="15" page="0" chnl="0" letter="COMB NUS!"/>
+        <char id="77" x="2" y="80" width="33" height="35" xoffset="-6" yoffset="2" xadvance="16" page="0" chnl="0" letter="MB NUS!"/>
+        <char id="78" x="37" y="80" width="30" height="35" xoffset="-6" yoffset="1" xadvance="13" page="0" chnl="0" letter="NUS!"/>
+        <char id="79" x="61" y="2" width="34" height="36" xoffset="-6" yoffset="1" xadvance="16" page="0" chnl="0" letter="OMB NUS!"/>
+        <char id="83" x="2" y="42" width="32" height="36" xoffset="-6" yoffset="-0" xadvance="14" page="0" chnl="0" letter="S!"/>
+        <char id="85" x="69" y="42" width="30" height="36" xoffset="-6" yoffset="1" xadvance="13" page="0" chnl="0" letter="US!"/>
+    </chars>
+    <kernings count="0"/>
+</font>
