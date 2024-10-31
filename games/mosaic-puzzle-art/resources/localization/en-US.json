@@ -1,0 +1,8 @@
+{
+  "locale":"en-US",
+  "data":[
+    {"key":"button.check", "value":"CHECK"},
+    {"key":"message.fail", "value":"WRONG!"},
+    {"key":"message.complete", "value":"CONGRATULATION!"}
+  ]
+}
