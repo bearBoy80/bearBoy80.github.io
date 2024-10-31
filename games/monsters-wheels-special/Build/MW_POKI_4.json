@@ -1,0 +1,12 @@
+{
+"companyName": "Smokoko",
+"productName": "Monsters Wheels Special",
+"dataUrl": "MW_POKI_4.data.unityweb",
+"wasmCodeUrl": "MW_POKI_4.wasm.code.unityweb",
+"wasmFrameworkUrl": "MW_POKI_4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
