@@ -1,0 +1,15 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "https://tbg95.pages.dev/madalin-stunt-cars-2/3f118ddfaeeb9186da193f9cfff20724.unityweb",
+"asmCodeUrl": "https://tbg95.pages.dev/madalin-stunt-cars-2/d53a048fa636ae81ac9be853b41f3f66.unityweb",
+"asmMemoryUrl": "https://tbg95.pages.dev/madalin-stunt-cars-2/8bc64822f0fa85d73a3ee17b050f81ed.unityweb",
+"asmFrameworkUrl": "https://tbg95.pages.dev/madalin-stunt-cars-2/622c0e69d1121b21471cff6ffa51a6c7.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "https://pictures.topspeed.com/images/2015/unity_background.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"totalFile": 2,
+"size": 37088945,
+"split_size": 18544473
+}
