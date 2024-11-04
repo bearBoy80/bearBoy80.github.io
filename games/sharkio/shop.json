@@ -1,0 +1,105 @@
+{
+	"fish":[
+		{
+			"name":"SHARK",
+			"status":"Best fish to start with",
+			"unlock_type":"unlocked"
+		},
+		{
+			"name":"ONI",
+			"status":"Swim faster than most fish",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"CATFISH",
+			"status":"Kill 3 enemies to gain shield for 4s",
+			"unlock_type":"ads"
+		},
+		{
+			"name":"CLOWNFISH",
+			"status":"Start game with 3 fish heads",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"HAWK",
+			"status":"Swim fast",
+			"unlock_type":"ads"
+		},
+		{
+			"name":"SPARTA",
+			"status":"Invincible for 2s after killed an enemy",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"ANGLER",
+			"status":"Bigger for 130% for 5s after killed an enemy",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"SCOPRION",
+			"status":"Rush infinity",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"WHALE",
+			"status":"Eat 15 algae to gain",
+			"unlock_type":"ads"
+		},
+		{
+			"name":"STINGRAY",
+			"status":"Kill 5 enemies to gain 7%  extra size",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"DIODON",
+			"status":"Kill 3 enemies to gain shield for 4s",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"SPERMWHALE",
+			"status":"Rush at 60+% mana cost more but higher speed",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"CYBORG",
+			"status":"Reborn once after death",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"DOLPHIN",
+			"status":"Use skill leave behind a chilly wave",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"RAINBOW",
+			"status":"Gain more scores as you  grow",
+			"unlock_type":"locked"
+		}
+	],
+	"horn":[
+		{
+			"name":"BASICSWORD",
+			"unlock_type":"unlocked"
+		},
+		{
+			"name":"LASER",
+			"unlock_type":"ads"
+		},
+		{
+			"name":"ICE",
+			"unlock_type":"ads"
+		},
+		{
+			"name":"POSEIDON",
+			"unlock_type":"ads"
+		},
+		{
+			"name":"TOBACCO",
+			"unlock_type":"locked"
+		},
+		{
+			"name":"SPEAR",
+			"unlock_type":"locked"
+		}
+	]
+}

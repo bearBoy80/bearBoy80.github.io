@@ -1,0 +1,1384 @@
+[
+  {
+    "PlayFabId": "CF5098F6AC06F5D",
+    "DisplayName": "Alex",
+    "StatValue": 99999,
+    "Position": 7662,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "CF5098F6AC06F5D",
+      "Created": "2023-01-23T09:41:28.809Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-30T15:02:16.413Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "IN",
+          "Latitude": 22,
+          "Longitude": 79
+        }
+      ],
+      "AvatarUrl": "000.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5032008690188815"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84638
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 7
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "B3E0D5DB19AA68F9",
+    "DisplayName": "Thuy Kieu",
+    "StatValue": 96497,
+    "Position": 7663,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "B3E0D5DB19AA68F9",
+      "Created": "2023-01-28T10:43:23.382Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-28T10:43:23.382Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Chau Doc",
+          "Latitude": 10.7019,
+          "Longitude": 105.1154
+        }
+      ],
+      "DisplayName": "Thuy Kieu",
+      "AvatarUrl": "001.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5595626600564468"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84637
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "5290A657E7CFF16D",
+    "DisplayName": "Nguyen",
+    "StatValue": 92388,
+    "Position": 7664,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "5290A657E7CFF16D",
+      "Created": "2023-01-21T09:36:47.141Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-21T09:36:47.141Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Qui Nhon",
+          "Latitude": 13.7656,
+          "Longitude": 109.2374
+        }
+      ],
+      "DisplayName": "Nguyen",
+      "AvatarUrl": "002.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "7465203033553356"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84637
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "E7F8350F9F27E801",
+    "DisplayName": "longJ",
+    "StatValue": 89414,
+    "Position": 7665,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "E7F8350F9F27E801",
+      "Created": "2023-01-27T14:33:23.259Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-27T14:35:52.134Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "MN",
+          "City": "Ulan Bator",
+          "Latitude": 47.9173,
+          "Longitude": 106.9177
+        }
+      ],
+      "DisplayName": "\u041c\u04e9\u043d\u0445\u0431\u0430\u0442",
+      "AvatarUrl": "003.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5127781660591008"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84635
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "4A608CE3AD4DFEBF",
+    "DisplayName": "Liebe",
+    "StatValue": 85344,
+    "Position": 7666,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "4A608CE3AD4DFEBF",
+      "Created": "2023-02-03T21:52:00.566Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-03T21:52:00.566Z",
+      "Locations": [
+        {
+          "ContinentCode": "SA",
+          "CountryCode": "PE",
+          "City": "Arequipa",
+          "Latitude": -16.4014,
+          "Longitude": -71.5343
+        }
+      ],
+      "DisplayName": "Liebe",
+      "AvatarUrl": "004.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5475698879172686"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84634
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 6
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "6F3A8094FEC425B5",
+    "DisplayName": "Petrov",
+    "StatValue": 82893,
+    "Position": 7667,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "6F3A8094FEC425B5",
+      "Created": "2023-02-13T05:17:30.741Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-13T05:17:30.741Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Hanoi",
+          "Latitude": 21.0313,
+          "Longitude": 105.8516
+        }
+      ],
+      "AvatarUrl": "005.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5608954062466356"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84634
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 10
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "66CD4EFB253A7E01",
+    "DisplayName": "Kenneth",
+    "StatValue": 76186,
+    "Position": 7668,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "66CD4EFB253A7E01",
+      "Created": "2023-01-28T03:06:01.742Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-31T04:31:42.159Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "PH",
+          "Latitude": 14.5955,
+          "Longitude": 120.9721
+        }
+      ],
+      "DisplayName": "Kenneth",
+      "AvatarUrl": "006.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "4780125698757433"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84633
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 10
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "18B0D31183D5B2A4",
+    "DisplayName": "Thu",
+    "StatValue": 72587,
+    "Position": 7669,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "18B0D31183D5B2A4",
+      "Created": "2023-01-25T06:40:41.658Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-25T06:40:41.658Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Da Nang",
+          "Latitude": 16.0685,
+          "Longitude": 108.2215
+        }
+      ],
+      "DisplayName": "Thu\u00fd",
+      "AvatarUrl": "007.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "4813892655331823"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84631
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "7764F3476D2EA318",
+    "DisplayName": "Quynh",
+    "StatValue": 68835,
+    "Position": 7670,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "7764F3476D2EA318",
+      "Created": "2023-01-19T06:46:06.193Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-19T06:46:06.193Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Thanh H\u00f3a",
+          "Latitude": 19.797,
+          "Longitude": 105.7674
+        }
+      ],
+      "DisplayName": "Qu\u1ef3nh",
+      "AvatarUrl": "008.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5247750408590576"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84627
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 0
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "6E9F35E7F724D70B",
+    "DisplayName": "Mame Cheikh",
+    "StatValue": 65239,
+    "Position": 7671,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "6E9F35E7F724D70B",
+      "Created": "2023-02-13T22:48:57.882Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-13T22:49:23.453Z",
+      "Locations": [
+        {
+          "ContinentCode": "AF",
+          "CountryCode": "MA",
+          "Latitude": 28.5,
+          "Longitude": -10
+        }
+      ],
+      "DisplayName": "Mame Cheikh",
+      "AvatarUrl": "009.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "7391434047597103"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84624
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "9BCE9F850BAB0905",
+    "DisplayName": "Duong",
+    "StatValue": 61009,
+    "Position": 7672,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "9BCE9F850BAB0905",
+      "Created": "2023-02-05T02:19:48.261Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-05T02:19:48.261Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Bac Giang",
+          "Latitude": 21.2749,
+          "Longitude": 106.1933
+        }
+      ],
+      "DisplayName": "Duong",
+      "AvatarUrl": "010.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5895997147085971"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84623
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "A0B0A9E15A8A4066",
+    "DisplayName": "Haksun",
+    "StatValue": 58186,
+    "Position": 7673,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "A0B0A9E15A8A4066",
+      "Created": "2023-02-05T10:25:16.636Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-05T10:25:16.636Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "KH",
+          "Latitude": 13,
+          "Longitude": 105
+        }
+      ],
+      "DisplayName": "Haksun",
+      "AvatarUrl": "011.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5600664616720168"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84621
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "B4EE5911ED141B6",
+    "DisplayName": "Gina",
+    "StatValue": 55993,
+    "Position": 7674,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "B4EE5911ED141B6",
+      "Created": "2023-02-03T19:48:24.82Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-03T19:48:24.82Z",
+      "Locations": [
+        {
+          "ContinentCode": "EU",
+          "CountryCode": "RO",
+          "City": "Foc\u015fani",
+          "Latitude": 45.6998,
+          "Longitude": 27.1875
+        }
+      ],
+      "DisplayName": "Gina",
+      "AvatarUrl": "012.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5835875776424736"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84621
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "A77555314E9F98B8",
+    "DisplayName": "Hasan",
+    "StatValue": 52169,
+    "Position": 7675,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "A77555314E9F98B8",
+      "Created": "2023-01-22T17:56:03.735Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-07T12:55:58.778Z",
+      "Locations": [
+        {
+          "ContinentCode": "EU",
+          "CountryCode": "GR",
+          "City": "Athens",
+          "Latitude": 37.9842,
+          "Longitude": 23.7353
+        }
+      ],
+      "DisplayName": "\u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03b1",
+      "AvatarUrl": "013.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5304681052931290"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 0
+        },
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84619
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "CA68CF46A571E243",
+    "DisplayName": "Huong",
+    "StatValue": 47805,
+    "Position": 7676,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "CA68CF46A571E243",
+      "Created": "2023-02-09T10:35:26.422Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-09T10:35:26.422Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Nam \u0110\u1ecbnh",
+          "Latitude": 20.4164,
+          "Longitude": 106.1706
+        }
+      ],
+      "DisplayName": "Huong",
+      "AvatarUrl": "014.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5322087017854521"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84619
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "CA5F93C15B9E5074",
+    "DisplayName": "Meera",
+    "StatValue": 43341,
+    "Position": 7677,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "CA5F93C15B9E5074",
+      "Created": "2023-01-17T07:48:36.605Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-14T04:43:42.959Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Hanoi",
+          "Latitude": 21.0313,
+          "Longitude": 105.8516
+        }
+      ],
+      "AvatarUrl": "015.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5220149431342734"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1709
+        },
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84613
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "5E4D5CFB8C052C36",
+    "DisplayName": "Yen",
+    "StatValue": 40133,
+    "Position": 7678,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "5E4D5CFB8C052C36",
+      "Created": "2023-01-31T13:36:12.064Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-31T13:36:12.064Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Hanoi",
+          "Latitude": 21.0313,
+          "Longitude": 105.8516
+        }
+      ],
+      "DisplayName": "Yen",
+      "AvatarUrl": "016.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "9109846802374007"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84613
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 13
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "55F540170767D995",
+    "DisplayName": "Trung",
+    "StatValue": 36538,
+    "Position": 7679,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "55F540170767D995",
+      "Created": "2023-02-12T12:29:44.353Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-12T12:29:44.353Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Thanh H\u00f3a",
+          "Latitude": 19.797,
+          "Longitude": 105.7674
+        }
+      ],
+      "DisplayName": "Tr\u1ea7n \u0110o\u00e0n",
+      "AvatarUrl": "017.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5239546829470673"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84613
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 0
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "CD25CAC774531136",
+    "DisplayName": "Ngoan",
+    "StatValue": 34712,
+    "Position": 7680,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "CD25CAC774531136",
+      "Created": "2023-01-31T11:14:14.777Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-31T11:14:14.777Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Ho Chi Minh City",
+          "Latitude": 10.8326,
+          "Longitude": 106.6581
+        }
+      ],
+      "DisplayName": "Ngoan",
+      "AvatarUrl": "018.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5260022980698253"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84613
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 10
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "9AD252FE33D28B1D",
+    "DisplayName": "Sitaram",
+    "StatValue": 30347,
+    "Position": 7681,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "9AD252FE33D28B1D",
+      "Created": "2023-01-28T09:48:05.489Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-28T09:48:05.489Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Thai Nguyen",
+          "Latitude": 21.5941,
+          "Longitude": 105.8432
+        }
+      ],
+      "DisplayName": "Qu\u1ef3nh",
+      "AvatarUrl": "019.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5646137242118623"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84612
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "2D2A0FD045B1F75A",
+    "DisplayName": "Cedric",
+    "StatValue": 28591,
+    "Position": 7682,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "2D2A0FD045B1F75A",
+      "Created": "2023-01-23T19:14:20.151Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-24T05:50:32.922Z",
+      "Locations": [
+        {
+          "ContinentCode": "EU",
+          "CountryCode": "FR",
+          "City": "Cenon",
+          "Latitude": 44.8561,
+          "Longitude": -0.5335
+        }
+      ],
+      "DisplayName": "Cedric",
+      "AvatarUrl": "020.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5371680329585863"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84605
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 36
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "4E439839728EFB47",
+    "DisplayName": "Mesias",
+    "StatValue": 25471,
+    "Position": 7683,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "4E439839728EFB47",
+      "Created": "2023-01-25T20:59:01.957Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-26T19:52:28.245Z",
+      "Locations": [
+        {
+          "ContinentCode": "SA",
+          "CountryCode": "PE",
+          "City": "Hu\u00e1nuco",
+          "Latitude": -9.9186,
+          "Longitude": -76.2335
+        }
+      ],
+      "DisplayName": "Mesias",
+      "AvatarUrl": "021.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5314794305221133"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84604
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 16
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "78AB7881DA0591B7",
+    "DisplayName": "Mazza",
+    "StatValue": 22177,
+    "Position": 7684,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "78AB7881DA0591B7",
+      "Created": "2023-01-22T13:47:59.95Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-29T11:52:18.046Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Thuan An",
+          "Latitude": 15.8529,
+          "Longitude": 108.3785
+        }
+      ],
+      "AvatarUrl": "022.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "8486098584798771"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 566
+        },
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84603
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "4CA2216D8E9E0F3F",
+    "DisplayName": "Huong",
+    "StatValue": 19925,
+    "Position": 7685,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "4CA2216D8E9E0F3F",
+      "Created": "2023-01-25T07:34:29.183Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-25T07:34:29.183Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Ho Chi Minh City",
+          "Latitude": 10.8326,
+          "Longitude": 106.6581
+        }
+      ],
+      "DisplayName": "H\u01b0\u1eddng",
+      "AvatarUrl": "023.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "7149193628485323"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84603
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 36
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "BF4445996FB1A78",
+    "DisplayName": "Yen",
+    "StatValue": 16262,
+    "Position": 7686,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "BF4445996FB1A78",
+      "Created": "2023-02-07T14:51:57.39Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-02-07T14:51:57.39Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Haiphong",
+          "Latitude": 20.8567,
+          "Longitude": 106.6826
+        }
+      ],
+      "DisplayName": "Yen",
+      "AvatarUrl": "024.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5332838100113525"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84601
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 0
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "92744210F9A80BD9",
+    "DisplayName": "Saad",
+    "StatValue": 13521,
+    "Position": 7687,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "92744210F9A80BD9",
+      "Created": "2023-01-24T20:25:03.891Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-24T20:25:03.891Z",
+      "Locations": [
+        {
+          "ContinentCode": "AF",
+          "CountryCode": "MA",
+          "Latitude": 28.5,
+          "Longitude": -10
+        }
+      ],
+      "DisplayName": "Saad",
+      "AvatarUrl": "025.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5454800904638436"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84601
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 1
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "4A67D8DBF4412DA1",
+    "DisplayName": "Phung",
+    "StatValue": 11251,
+    "Position": 7688,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "4A67D8DBF4412DA1",
+      "Created": "2023-01-22T10:14:00.031Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-25T04:56:56.464Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Lao Cai",
+          "Latitude": 22.4833,
+          "Longitude": 103.95
+        }
+      ],
+      "DisplayName": "Ph\u1ea1m",
+      "AvatarUrl": "026.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "5235957216424443"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84600
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "48994D8EE11362E0",
+    "DisplayName": "Andray",
+    "StatValue": 7766,
+    "Position": 7689,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "48994D8EE11362E0",
+      "Created": "2023-01-20T22:34:13.209Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-20T22:41:55.551Z",
+      "Locations": [
+        {
+          "ContinentCode": "SA",
+          "CountryCode": "PE",
+          "City": "Lima",
+          "Latitude": -12.0464,
+          "Longitude": -77.0428
+        }
+      ],
+      "DisplayName": "Andr\u00e9s",
+      "AvatarUrl": "027.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "4761135880678377"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84597
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 20
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "29519D7DC5E73D1D",
+    "DisplayName": "Anh",
+    "StatValue": 5208,
+    "Position": 7690,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "29519D7DC5E73D1D",
+      "Created": "2023-01-22T05:18:41.811Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-22T05:18:41.811Z",
+      "Locations": [
+        {
+          "ContinentCode": "AS",
+          "CountryCode": "VN",
+          "City": "Ho Chi Minh City",
+          "Latitude": 10.8326,
+          "Longitude": 106.6581
+        }
+      ],
+      "DisplayName": "Anh",
+      "AvatarUrl": "028.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "3735515896573103"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84593
+        },
+        {
+          "Name": "cup",
+          "Version": 0,
+          "Value": 0
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "63CC9410B8284ACC",
+    "DisplayName": "Franco",
+    "StatValue": 759,
+    "Position": 7691,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "63CC9410B8284ACC",
+      "Created": "2023-01-20T23:12:41.172Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-20T23:12:41.172Z",
+      "Locations": [
+        {
+          "ContinentCode": "NA",
+          "CountryCode": "MX",
+          "City": "Puebla City",
+          "Latitude": 19.0436,
+          "Longitude": -98.1981
+        }
+      ],
+      "DisplayName": "Franco",
+      "AvatarUrl": "029.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "4968109566632731"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84591
+        }
+      ]
+    }
+  },
+  {
+    "PlayFabId": "63CC9410B8284ACC",
+    "DisplayName": "Player",
+    "StatValue": 0,
+    "Position": 7691,
+    "Profile": {
+      "PublisherId": "246249E3F445453",
+      "TitleId": "A92C4",
+      "PlayerId": "63CC9410B8284ACC",
+      "Created": "2023-01-20T23:12:41.172Z",
+      "Origination": "Custom",
+      "LastLogin": "2023-01-20T23:12:41.172Z",
+      "Locations": [
+        {
+          "ContinentCode": "NA",
+          "CountryCode": "MX",
+          "City": "Puebla City",
+          "Latitude": 19.0436,
+          "Longitude": -98.1981
+        }
+      ],
+      "DisplayName": "Franco",
+      "AvatarUrl": "avatar.png",
+      "Tags": [],
+      "LinkedAccounts": [
+        {
+          "Platform": "Custom",
+          "PlatformUserId": "4968109566632731"
+        }
+      ],
+      "ContactEmailAddresses": [],
+      "ValuesToDate": [],
+      "Statistics": [
+        {
+          "Name": "rank",
+          "Version": 0,
+          "Value": 84591
+        }
+      ]
+    }
+  }
+]
