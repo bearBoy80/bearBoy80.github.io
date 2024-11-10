@@ -1,0 +1,17 @@
+{
+"companyName": "OzgurAydın",
+"productName": "Real Cars in City",
+"productVersion": "1.0",
+"dataUrl": "RealCarsinCityV3.data.unityweb",
+"wasmCodeUrl": "RealCarsinCityV3.wasm.code.unityweb",
+"wasmFrameworkUrl": "RealCarsinCityV3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "RealCarsinCityV3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
